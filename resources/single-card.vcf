@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:4.0
+N:Doe;John;;Mr;
+FN:Mr John Doe
+ORG:Copernica BV
+TITLE:Software Engineer
+PHOTO:MEDIATYPE=image/gif;http://www.example.com/dir_photos/my_photo.gif
+ADR:;;De Ruijterkade 112;;Amsterdam;;1101AB;Nederland
+EMAIL:jobs@copernica.com
+REV:20080423T195243Z
+END:VCARD
